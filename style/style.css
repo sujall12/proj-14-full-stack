@@ -1,0 +1,182 @@
+.main-container{
+    background-image: url(/assets/shades\ -girl.PNG);
+    background-repeat: no-repeat;
+    position: fixed;
+    margin-top: -1rem;
+    margin-left: -0.4rem;
+    height: 100vh;
+}
+
+
+.nav-container{
+    display: flex;
+    list-style-type: none;
+    gap: 70px;
+    margin-left: 45rem;
+    margin-top: -2.5rem;
+}
+
+.nav-item{
+    font-size: large;
+    font-family: "Poppins", sans-serif;
+    color: #8e8d8d;
+}
+
+
+.nav-item:nth-child(1){
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+.logo-1{
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+
+.nav-container::before {
+    content: "";
+    height: 1px;
+    width: 250px;
+    background: #515150;
+    margin-top: 10px;
+    margin-left: -15rem;
+  }
+
+
+.top{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5rem;
+}
+
+
+.text-1  {
+    margin-left: -20rem ;
+    font-size: 8rem;
+    
+
+    font-family: "Roboto", serif;
+    font-weight: 550;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px;
+}
+
+
+.text-2{
+    font-size: 8rem;
+    -webkit-text-fill-color: black;
+    -webkit-text-stroke: 2px;
+    font-weight: 600;
+    margin-top: -10rem;
+    
+
+}
+
+
+.text-details{
+    margin-top: -4rem;
+    
+
+}
+
+
+.socials-icon{
+    
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    margin-top: -3rem;
+    margin-left: 7rem;
+}
+
+
+.text-part-1{
+    color: #828282;
+    font-size: 2.5rem;
+    margin-top: 1rem;
+    margin-left: 8rem;
+}
+
+.btn-package{
+   margin-left: 70%;
+   padding: 15px;
+   width: 270px;
+   font-size: larger;
+   color: white;
+   background-color: #333333;
+   border: none;
+   margin-top: -2rem;
+   cursor: pointer;
+   box-shadow: 4px 4px 4px grey;
+}
+
+
+.list{
+    display: flex;
+    flex-direction: column;
+    margin-top: -7rem;
+    margin-left: 44%;
+    color: #333333;
+    font-size: larger;
+    
+}
+
+
+.list-item span {
+display: inline-block;
+content: "";
+width: 13px;
+height: 13px;
+position: relative;
+border-radius: 8px;
+background: #5d5d5d;
+margin-right: 1.4rem;
+
+}
+
+
+.list-item span::after {
+    
+    display: inline-block;
+    width: 2px;
+    height: 75px;
+    background: #5d5d5d;
+    position: absolute;
+    left: 4px;
+    content: "";
+  }
+
+
+#bb-1{
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.text{
+    margin-left: 62%;
+    margin-top: -15.5rem;
+
+}
+
+
+.graphics-1{
+    color: black;
+    font-size: large;
+    font-size: 500;
+}
+
+
+.Dance-img{
+    margin-left: 60%;
+    margin-top: 1rem;
+}
+
+
+.img-upward{
+    margin-top: -22%;
+    margin-left: 85%;
+    
+}
