@@ -2,7 +2,7 @@
 
 ## By Sujal
 
-## [Link for Project 14](https://proj-14-creativity.netlify.app/) 
+## [Link for Project 14](https://proj-14-mobile-responsive.netlify.app/) 
 
 ![project 14 completed](./proj-14.png)
 
